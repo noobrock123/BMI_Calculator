@@ -1,0 +1,6 @@
+Hello, welcome to my BMI Calculator program
+To use the program, first open file "BMI_Calculator_V.x.x.x"
+Then open BMI_Calculator_Exe.py to use the program
+And that's it! Have fun!
+
+If you have any criticisms, feel free to comment in my github!
